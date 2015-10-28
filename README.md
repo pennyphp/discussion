@@ -1,2 +1,2 @@
 # discussion
-Only issues about the future of penny ecosystem
+Only issue about the future of penny ecosystem
